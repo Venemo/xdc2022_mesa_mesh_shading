@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="69.051216mm"
+   height="46.560024mm"
+   viewBox="0 0 69.051216 46.560024"
+   version="1.1"
+   id="svg15729"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="task_sync_4.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview15731"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.76808711"
+     inkscape:cx="-1.3019357"
+     inkscape:cy="208.30971"
+     inkscape:window-width="1920"
+     inkscape:window-height="1128"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs15726">
+    <marker
+       markerWidth="1.05"
+       markerHeight="0.99999994"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       id="CapRibbon1-5-9-1-0"
+       viewBox="0 0 1.05 1"
+       inkscape:stockid="pin"
+       style="overflow:visible"
+       preserveAspectRatio="xMidYMid"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path56643-1-8-1-2"
+         style="fill:context-stroke;stroke-linecap:butt"
+         d="M 0,-1 H 2 L 1,0 2,1 H 0 L -0.1,0 Z"
+         sodipodi:nodetypes="sssssscsss"
+         transform="scale(0.5)" />
+    </marker>
+    <marker
+       markerWidth="0.52499998"
+       markerHeight="0.99999994"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       id="CapTriangle-66-3-3-5"
+       viewBox="0 0 0.525 1"
+       inkscape:stockid="pin"
+       style="overflow:visible"
+       preserveAspectRatio="xMidYMid"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path7813-21-8-5-8"
+         style="fill:context-stroke;stroke-linecap:butt"
+         d="M 0,-1 1,0 0,1 -0.05,0 Z"
+         sodipodi:nodetypes="sssssscsss"
+         transform="scale(0.5)" />
+    </marker>
+    <marker
+       markerWidth="1.05"
+       markerHeight="0.99999994"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       id="CapRibbon1-2-9-5-9-9"
+       viewBox="0 0 1.05 1"
+       inkscape:stockid="pin"
+       style="overflow:visible"
+       preserveAspectRatio="xMidYMid"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path56643-0-6-2-3-5"
+         style="fill:context-stroke;stroke-linecap:butt"
+         d="M 0,-1 H 2 L 1,0 2,1 H 0 L -0.1,0 Z"
+         sodipodi:nodetypes="sssssscsss"
+         transform="scale(0.5)" />
+    </marker>
+    <marker
+       markerWidth="0.52499998"
+       markerHeight="0.99999994"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       id="CapTriangle-2-4-2-4-0"
+       viewBox="0 0 0.525 1"
+       inkscape:stockid="pin"
+       style="overflow:visible"
+       preserveAspectRatio="xMidYMid"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path7813-1-8-2-1-6"
+         style="fill:context-stroke;stroke-linecap:butt"
+         d="M 0,-1 1,0 0,1 -0.05,0 Z"
+         sodipodi:nodetypes="sssssscsss"
+         transform="scale(0.5)" />
+    </marker>
+    <rect
+       x="56.417088"
+       y="1114.5789"
+       width="130.0721"
+       height="23.791451"
+       id="rect63822-3-5-7-0-7-5-0" />
+    <rect
+       x="56.417088"
+       y="1114.5789"
+       width="130.0721"
+       height="23.791451"
+       id="rect63822-3-5-4-8-0-0-8" />
+    <marker
+       style="overflow:visible"
+       id="Arrow1L-1-3-8-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="arrow1L-0-4-3-7"
+         transform="scale(-0.5)" />
+    </marker>
+    <rect
+       x="692.26416"
+       y="1219.9565"
+       width="122.8271"
+       height="29.160995"
+       id="rect92761-2-6-5-8" />
+    <rect
+       x="692.26416"
+       y="1219.9565"
+       width="122.8271"
+       height="29.160995"
+       id="rect92761-2-4-4-6-6-2" />
+    <rect
+       x="692.26416"
+       y="1219.9565"
+       width="54.376324"
+       height="36.808105"
+       id="rect92761-0-2-3-5-1" />
+    <rect
+       x="692.26416"
+       y="1219.9565"
+       width="54.376324"
+       height="36.808105"
+       id="rect92761-0-0-9-4-9-0" />
+    <rect
+       x="692.26416"
+       y="1219.9565"
+       width="122.8271"
+       height="29.160995"
+       id="rect92761-2-4-4-0-0-9-5" />
+    <rect
+       x="621.9776"
+       y="1589.9072"
+       width="91.308914"
+       height="25.972734"
+       id="rect130095-8" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-70.206875,-22.215662)">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#e9c738;stroke-width:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1-5-9-1-0);marker-end:url(#CapTriangle-66-3-3-5)"
+       d="m 80.33906,36.410739 h 53.91903"
+       id="path87027-75-2-0-5" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#bfed17;stroke-width:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#CapRibbon1-2-9-5-9-9);marker-end:url(#CapTriangle-2-4-2-4-0)"
+       d="m 80.33906,54.265309 h 53.91903"
+       id="path87027-7-6-5-7-0" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,55.06619,-249.97503)"
+       id="text63820-7-1-4-8-6-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;white-space:pre;shape-inside:url(#rect63822-3-5-7-0-7-5-0);display:inline;fill:#789a06;fill-opacity:1;stroke:none;stroke-width:1.32283;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+         x="56.417969"
+         y="1127.8393"
+         id="tspan16274">GFX</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,55.34727,-267.86703)"
+       id="text63820-7-1-1-6-9-3-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;white-space:pre;shape-inside:url(#rect63822-3-5-4-8-0-0-8);display:inline;fill:#c2881b;fill-opacity:1;stroke:none;stroke-width:1.32283;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+         x="56.417969"
+         y="1127.8393"
+         id="tspan16276">ACE</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect92294-3-0-7-8"
+       width="6.457375"
+       height="9.9424133"
+       x="87.413528"
+       y="31.437798" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect92294-7-7-2-6-2"
+       width="6.457375"
+       height="9.9424133"
+       x="118.05235"
+       y="49.280998" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect92294-7-7-2-7-1-3"
+       width="1.4794685"
+       height="9.8618937"
+       x="95.747696"
+       y="49.313622" />
+    <rect
+       style="fill:#4b4b4b;fill-opacity:1;stroke:none;stroke-width:0.35;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect92294-7-7-5-4-5-0"
+       width="11.323755"
+       height="10.003346"
+       x="83.364975"
+       y="49.204735" />
+    <rect
+       style="fill:#d31d1d;fill-opacity:0.4;stroke:#b52020;stroke-width:0.349999;stroke-dasharray:0.349999, 0.349999;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect128221-5"
+       width="11.322977"
+       height="29.133074"
+       x="86.53212"
+       y="30.82119" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.349999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1L-1-3-8-3)"
+       d="m 90.71175,41.993739 c 1.50176,2.14762 24.89556,2.7063 28.3369,5.46664"
+       id="path92639-9-7-0-7"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-64.0691,-279.42647)"
+       id="text92759-7-6-6-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;white-space:pre;shape-inside:url(#rect92761-2-6-5-8);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32283;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="-25.769314"
+       y="0"><tspan
+         x="692.26367"
+         y="1228.3959"
+         id="tspan16278">implicit wait</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-98.62514,-270.03343)"
+       id="text92759-7-1-1-7-5-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;white-space:pre;shape-inside:url(#rect92761-2-4-4-6-6-2);display:inline;fill:#e1e1e1;fill-opacity:1;stroke:none;stroke-width:1.32283;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="-25.769314"
+       y="0"><tspan
+         x="692.26367"
+         y="1228.3959"
+         id="tspan16280">transfer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-99.53874,-301.06634)"
+       id="text92759-4-4-3-0-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect92761-0-2-3-5-1);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32283;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="-4.2793174"
+       y="0"><tspan
+         x="699.64216"
+         y="1228.3959"
+         id="tspan16282">DISPATCH
+</tspan><tspan
+         x="697.42548"
+         y="1240.0625"
+         id="tspan16284">TASKMESH
+</tspan><tspan
+         x="711.80816"
+         y="1251.7292"
+         id="tspan16286">ACE</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-67.27974,-262.44062)"
+       id="text92759-4-8-9-3-8-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect92761-0-0-9-4-9-0);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32283;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="-4.2793174"
+       y="0"><tspan
+         x="699.64216"
+         y="1228.3959"
+         id="tspan16288">DISPATCH
+</tspan><tspan
+         x="697.42548"
+         y="1240.0625"
+         id="tspan16290">TASKMESH
+</tspan><tspan
+         x="711.69615"
+         y="1251.7292"
+         id="tspan16292">GFX</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0,0.26458333,-0.26458333,0,420.81471,-132.63902)"
+       id="text92759-7-1-1-8-4-1-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;white-space:pre;shape-inside:url(#rect92761-2-4-4-0-0-9-5);display:inline;fill:#e1e1e1;fill-opacity:1;stroke:none;stroke-width:1.32283;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="-25.769314"
+       y="0"><tspan
+         x="692.26367"
+         y="1228.3959"
+         id="tspan16294">barrier</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-84.37434,-360.48268)"
+       id="text130093-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect130095-8);display:inline;fill:#e64c4c;fill-opacity:1;stroke:none;stroke-width:1.32283;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+         x="638.49007"
+         y="1603.1674"
+         id="tspan16298"><tspan
+           style="fill:#610e0e"
+           id="tspan16296">sync bug</tspan></tspan></text>
+  </g>
+</svg>
